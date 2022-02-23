@@ -18,6 +18,10 @@ time, mark, audio, video {
  vertical-align:baseline;
  background:transparent;
 }
+header a{
+  text-decoration: none;
+  color: antiquewhite;
+}
 /*HOME */
 header{
   background-color: #0d1430;
@@ -132,7 +136,7 @@ button{
 .blog-2 span{
   font-size: smaller;
 }
-a{
+article a{
   text-decoration: none;
   color: green;
 }
